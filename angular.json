@@ -25,7 +25,7 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": [],
+            "scripts": ["/assets/canvasjs.min.js"],
             "es5BrowserSupport": true
           },
           "configurations": {
@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "JSONServerAPI"
+  "defaultProject": "JSONServerAPI",
+  "cli": {
+    "analytics": "ea075e85-1a9b-482c-895f-58f489c79535"
+  }
 }

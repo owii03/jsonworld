@@ -1,6 +1,12 @@
+## GET STARTED
+in terminal 
+`npm i`
+`npm install -g json-server`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `json-server --watch db.json` for starting the JSON Server. Navigate to `http://localhost:3000/worlds`.
 
 ## Code scaffolding
 
